@@ -1,0 +1,3 @@
+HOST="127.0.0.1"
+PORT=2774
+PREFIX="crystalpy"
